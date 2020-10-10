@@ -1,0 +1,2 @@
+# barbearia
+Sistema para gerenciamento de agendamento de clientes , que pretendem utilizar os serviços da barbearia em determinado dia. Possuindo fluxo de atendimentos e cadastramento de cliente e seus dados,onde o barbeiro consegue agendar seu cliente e enviar um email confirmando.  1-Inserir nome,data ,horario; 2-Agendar cliente; 3-Enviar agendamento por email; 4-Confirmar por email o agendamento no salão.
